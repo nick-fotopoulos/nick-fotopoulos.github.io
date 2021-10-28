@@ -4,4 +4,4 @@
 
 ### Project contributions
 
-https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
+[Brent Ozar: SQL Server First Responder Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit)
